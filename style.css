@@ -1,0 +1,24 @@
+Body{
+    font-family: 'Poppins', sans-serif;
+} 
+h1{
+    font-size: 50px;
+}
+
+.color{
+    color: orange
+    ;
+}
+.color-2{
+    color: red;
+}
+.try-color{
+    color: red;
+}
+.if-color{
+    color: red;
+}
+.imp-color{
+    color: red;
+}
+
